@@ -1,0 +1,21 @@
+abc = a / b + 6 * 2 + 5
+
+if( abc > 10 ) then 
+	d = abc / 5
+	e = 2 * d
+
+	g = 10
+	h = g
+
+	if(h <> 15 && h <> 10) then 
+		h = h + 1
+	else 
+		h = h - 1
+	endif
+	
+	if(h <> 9) then 
+		i = 100
+	else 
+		i = 200
+	endif
+endif

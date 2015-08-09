@@ -1,0 +1,22 @@
+{
+  "name": "jison-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "gulp": "gulp --verbose",
+    "start": "node index.js",
+    "serve": "gulp webserver"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.4.3",
+    "bootstrap": "^3.3.5",
+    "gulp": "^3.9.0",
+    "gulp-server-livereload": "^1.4.0",
+    "jison": "^0.4.15"
+  },
+  "dependencies": {}
+}
